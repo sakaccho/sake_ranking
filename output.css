@@ -2858,7 +2858,7 @@ details[open] .accordion-summary::after {
   display: flex;
   flex-direction: column;
   gap: 4px;
-  padding-top: 80px;
+  /* padding-top: 80px; */
 }
 
 .item {
